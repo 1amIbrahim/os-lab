@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mq_writer_perf.dir/mq_writer_perf.c.o -o mq_writer_perf  /usr/lib/x86_64-linux-gnu/librt.a 

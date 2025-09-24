@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/unix_server.dir/unix_server.c.o -o unix_server 
