@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/shm_reader.dir/shm_reader.c.o -o shm_reader  /usr/lib/x86_64-linux-gnu/librt.a 

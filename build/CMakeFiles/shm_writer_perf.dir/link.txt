@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/shm_writer_perf.dir/shm_writer_perf.c.o -o shm_writer_perf  /usr/lib/x86_64-linux-gnu/librt.a 

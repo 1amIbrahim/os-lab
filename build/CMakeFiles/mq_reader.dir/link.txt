@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mq_reader.dir/mq_reader.c.o -o mq_reader  /usr/lib/x86_64-linux-gnu/librt.a 
